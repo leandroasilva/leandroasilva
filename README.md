@@ -1,5 +1,5 @@
 # Hello 👋🏻
-I I'am Leandro A Silva
+I am Leandro A Silva
 
 # Languages 🗣
 - Português(Brasil) 🇧🇷
