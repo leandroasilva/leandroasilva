@@ -8,6 +8,7 @@ I am Leandro A Silva
 # Programming Languages 
 ## Desktop 💻
 - ObjectPascal (Lazarus, Delphi)
+- JavaScript (Electron, React NodeGui)
 
 ## BackEnd 💻
 - JavaScript(Node, Typescript)
@@ -16,18 +17,24 @@ I am Leandro A Silva
 
 ## FrontEnd 💻
 - ReactJS
+- VueJS
 - EJS
 - Handlebars
+- AlpineJS
 
 ## Mobile
-- React-Native
+- React-Native (Android, IOS, WebApp)
+- Swift (IOS)
+- Java (Android)
 
 # Databases
+- SQLite
 - FirebirdSQL
-- Mysql
+- MySQL
 - MongoDB
-- Postgre
+- PostgreSQL
 - Cassandra
+- RethinkDB
 
 # Projects 
 - comming son
